@@ -1,4 +1,4 @@
-# Odoo 16 
+# Odoo 16 & 17
 ## disable_debug_mode
 https://apps.odoo.com/apps/modules/16.0/disable_debug
 https://github.com/taha-abujrad/disable-debug-mode
@@ -16,7 +16,7 @@ git clone https://github.com/Odoo-Plugins/disable-debug-mode.git disable_debug
 - Install the disable_debug odoo application
 - To activate the Debug mode in odoo for a certain user add the **Use Debug Mode** access group to that user
 
-Note: Supported Odoo versions: 13, 14, 15 and 16
+Note: Supported Odoo versions: 13, 14, 15, 16 and 17
 
 
 <br/><br/>
